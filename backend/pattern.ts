@@ -1,0 +1,1 @@
+export type Pattern = Map<[number,number,number],{value: {name: string} | null}>;
